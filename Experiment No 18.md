@@ -53,10 +53,13 @@ The objectives of this experiment are:
 8. Observe the **Serial-to-Parallel Converter outputs** representing the even and odd bits.
 
 ### Figure 2
+<img width="490" height="370" alt="image" src="https://github.com/user-attachments/assets/75001cc6-82b1-45b3-b758-91dcf3c55be8" />
 
 ### figure 6 
+<img width="490" height="376" alt="image" src="https://github.com/user-attachments/assets/c9306fb1-e068-4ff9-958d-02e4ca8fe965" />
 
-
+### Figure 8 
+<img width="490" height="374" alt="image" src="https://github.com/user-attachments/assets/688c7545-13ae-49df-8574-2a57b130fc7e" />
 ---
 
 ## Part B – Generating the BPSK Signals
@@ -66,6 +69,11 @@ The objectives of this experiment are:
 11. Observe the resulting **BPSK signals** on the oscilloscope.
 12. Compare the phase changes of the carrier signals with the digital input signals.
 
+### Figure 8 
+<img width="490" height="374" alt="image" src="https://github.com/user-attachments/assets/688c7545-13ae-49df-8574-2a57b130fc7e" />
+
+### Figure 12 
+<img width="490" height="386" alt="image" src="https://github.com/user-attachments/assets/c14fc11f-87a0-40d6-92e0-61e3b6d39621" />
 ---
 
 ## Part C – Generating the QPSK Signal
